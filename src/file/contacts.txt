@@ -1,0 +1,7 @@
+Manh Phi; 0582291302; s3878070@rmit.edu.vn; 24 Bac Hai Ward 6 District Tan Binh, HCMC
+Nguyen Thanh Hai Trieu; 0e012301283; s382329@rmit.edu.vn; 12313 2131231 1231231, HCMC
+John Smith; 0901234567; johns@yahoo.com; 120 Le Thanh Ton, D1, HCMC
+Bui Van Ba; 0913437582; ba.bui@gmail.com; 18 Nguyen Thi Thap, D7, HCMC
+Ngo Hung; 0927654321; hung@outlook.com; 89 Phan Dinh Phung, Ba Dinh, Ha Noi
+Tran Tieu Vy; 0339997264; vy.tran@gmail.com; 5 Le Duan, Hai Chau, Da Nang
+123; 123123; 123123; 12313
